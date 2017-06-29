@@ -8,12 +8,12 @@ NuMaker Platform Resource
 - [mbed uVisor example](https://github.com/OpenNuvoton/NuMaker-mbed-uVisor-example)
 - [mbed Doc](https://github.com/OpenNuvoton/NuMaker-mbed-docs)
 
-**2. NuMaker WiFi Cam**
-- [WiFi Cam example](https://github.com/OpenNuvoton/NuMaker_NuWicam_Samples)
+**2. NuMaker NuWiCam**
+- [NuWiCam example](https://github.com/OpenNuvoton/NuMaker_NuWicam_Samples)
 - [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuWicam_RDK)
 - [IOS App](https://github.com/OpenNuvoton/NuMaker_NuWicam_Player_IOS)
 - [Andorid App](https://github.com/OpenNuvoton/NuMaker_NuWicam_Player_Android)
 
-**3. NuMaker Easy Cam**
-- [Easy Cam example](https://github.com/OpenNuvoton/NuMaker_NuEZCam_Samples)
+**3. NuMaker NuEZCam**
+- [NuEZCam example](https://github.com/OpenNuvoton/NuMaker_NuEZCam_Samples)
 - [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuEZCam_RDK)
