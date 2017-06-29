@@ -1,4 +1,4 @@
-NuMaker-Platform
+NuMaker Platform Resource
 ----------------------------
 **1. mbed**
 - [mbed OS](https://github.com/OpenNuvoton/mbed)
